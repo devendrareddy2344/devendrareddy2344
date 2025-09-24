@@ -1,24 +1,24 @@
 # Hi there 👋, I'm Vennapusa Devendra Reddy!
 
-💻 **B.Tech Final Year Student | Python Developer | Data Science Enthusiast**
+💻 **B.Tech in Artificial Intelligence & Data Science (Recent Graduate) | Python Developer | Data Science Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-- 🏫 Studying B.Tech at Audisankara Institute of Technology
-- 🤖 Passionate about AI, Machine Learning, and intelligent solutions
-- 🐍 Daily Python coder excited by data analysis, automation, and backend work
-- 📊 Building actionable dashboards and analytics with Power BI, Excel, NumPy, Pandas, Seaborn, and EDA
-- 👨‍💻 Hands-on experience designing and deploying interactive Power BI dashboards for real-world healthcare scenarios
+- 🎓 Recent B.Tech graduate in Artificial Intelligence and Data Science from Audisankara Institute of Technology
+- 🤖 Passionate about AI, Machine Learning, and deploying intelligent solutions
+- 🐍 Python developer with daily coding practice and enthusiasm for real-world data analysis and automation
+- 📊 Building actionable dashboards and analytics using Power BI, Excel, and advanced Python libraries
+- 👨‍💻 Hands-on experience designing and deploying interactive Power BI dashboards for hospital emergency patient analytics
 
 ---
 
 ## 🌟 Key Projects
 
 - **Power BI Hospital Emergency Patient Dashboard (Recent Project):**  
-  Designed and deployed an end-to-end analytics dashboard in Power BI to visualize ER visit trends, wait times, patient satisfaction, and demographics—enabling better, data-driven decisions in hospital management.
-- **AI Healthcare Chatbot:** Medical Q&A bot powered by Gemini and Django
+  Designed, implemented, and deployed a comprehensive analytics dashboard in Power BI to visualize ER visit trends, wait times, patient satisfaction, and demographic data—empowering data-driven decision-making in hospital management.
+- **AI Healthcare Chatbot:** Medical Q&A bot powered by Gemini and Django for intelligent patient support
 
 ---
 
@@ -28,7 +28,7 @@
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, EDA, Preprocessing Techniques
 - **Frameworks:** Django, Flask
 - **Analytics Tools:** Power BI, Excel
-- **Platforms:** Jupyter Notebook, GitHub, Ubuntu, Power BI
+- **Platforms:** Jupyter Notebook, GitHub, Ubuntu
 
 ---
 
@@ -47,18 +47,18 @@
 
 ## ✍️ Recent Projects
 
-- **Power BI Hospital Emergency Patient Dashboard:** Interactive analytics dashboard for emergency patient trends and hospital performance (featured project)
+- **Power BI Hospital Emergency Patient Dashboard:** Interactive analytics for emergency trends and hospital performance (featured project)
 - AI Healthcare Chatbot: Medical Q&A platform with LLMs and Gemini
-- PDF Data Processor: Automated extraction and analysis with PyPDF & Pandas
-- Python Data Science Learning: Step-by-step notebooks on NumPy, Pandas, EDA
+- PDF Data Processor: Automated extraction and analysis using PyPDF & Pandas
+- Python Data Science Learning: Practical notebooks on NumPy, Pandas, EDA
 
 ---
 
 ## 🎯 Goals for 2025
 
-- Master ML deployment and analytics in healthcare
-- Secure a full-time Software Engineer role
-- Expand open-source AI and ML contributions
+- Become a specialist in ML deployment and analytics in healthcare
+- Launch a career as a Software/AI Engineer
+- Increase open-source contributions in AI and data science
 
 ---
 
