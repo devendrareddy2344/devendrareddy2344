@@ -1,67 +1,50 @@
-# Hi there 👋, I'm Vennapusa Devendra Reddy!
+# 👋 Hi, I'm Vennapusa Devendra Reddy!
 
-💻 **B.Tech in Artificial Intelligence & Data Science (Recent Graduate) | Python Developer | Data Science Enthusiast**
+## 🚀 AI & Data Science Enthusiast | Innovator | Problem Solver
 
----
+I am a passionate final-year B.Tech student specializing in **Artificial Intelligence and Data Science** at Audisankara Institute of Technology. With a strong foundation in machine learning and data analytics, I am driven by the desire to leverage intelligent, data-driven solutions to tackle real-world challenges. My expertise spans across various domains, including Generative AI, Healthcare AI, and Financial Risk Analysis.
 
-## 🚀 About Me
+## 💡 What I Do
 
-- 🎓 Recent B.Tech graduate in Artificial Intelligence and Data Science from Audisankara Institute of Technology
-- 🤖 Passionate about AI, Machine Learning, and deploying intelligent solutions
-- 🐍 Python developer with daily coding practice and enthusiasm for real-world data analysis and automation
-- 📊 Building actionable dashboards and analytics using Power BI, Excel, and advanced Python libraries
-- 👨‍💻 Hands-on experience designing and deploying interactive Power BI dashboards for hospital emergency patient analytics
+My work revolves around developing innovative AI and data science solutions. I thrive on transforming complex problems into actionable insights and robust applications. I am proficient in **Python**, and skilled in using libraries like **NumPy**, **Pandas**, and **Matplotlib** for data manipulation and visualization. My database skills include **SQL**, and I have experience with web technologies like **JavaScript**, **TypeScript**, and **HTML/CSS** for building comprehensive solutions.
 
----
+## 🛠️ My Projects & Expertise
 
-## 🌟 Key Projects
+I have a diverse portfolio of projects that demonstrate my capabilities in various facets of AI and Data Science:
 
-- **Power BI Hospital Emergency Patient Dashboard (Recent Project):**  
-  Designed, implemented, and deployed a comprehensive analytics dashboard in Power BI to visualize ER visit trends, wait times, patient satisfaction, and demographic data—empowering data-driven decision-making in hospital management.
-- **AI Healthcare Chatbot:** Medical Q&A bot powered by Gemini and Django for intelligent patient support
+### 🧠 Generative AI & RAG
 
----
+-   **rag-based-document-assistant**: Developed an intelligent assistant leveraging Retrieval-Augmented Generation (RAG) for efficient document querying.
+-   **Enterprise-SOP-Policy-Knowledge-Assistant-using-Generative-AI-with-RAG**: Created a knowledge assistant for enterprises, enhancing policy and SOP understanding through Generative AI and RAG.
+-   **GenAI-Powered-Contract-Risk-Compliance-Engine**: Engineered a sophisticated engine to analyze contracts for risk and compliance using advanced Generative AI techniques.
 
-## 🛠️ Tech Stack
+### 🏥 Healthcare AI
 
-- **Languages:** Python, HTML, CSS, basic JAVA, C
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, EDA, Preprocessing Techniques
-- **Frameworks:** Django, Flask
-- **Analytics Tools:** Power BI, Excel
-- **Platforms:** Jupyter Notebook, GitHub, Ubuntu
+-   **Diabetic-Retinopathy-Detection-System**: Implemented an AI-powered system for early detection of Diabetic Retinopathy.
+-   **AI-Healthcare-Chatbot**: Built an intelligent, web-based chatbot (using Python/Django) providing 24/7 medical support, symptom checking, and healthcare guidance.
+-   **Hospital-Emergency-Room-Dashboard---Power-BI**: Designed an interactive Power BI dashboard to analyze and optimize emergency room performance.
 
----
+### 💰 Finance & Risk Analysis
 
-## 📈 GitHub Stats
+-   **Dynamic_Pricing_Intelligence_Platform**: Developed a platform for intelligent dynamic pricing strategies.
+-   **Ai_loan_Risk_analysis**: Created an AI-driven system for assessing loan risk.
+-   **DynamixNetworks_Credit_Card_Fraud_Detection**: Implemented a machine learning solution for detecting credit card fraud.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendrareddy2344&show_icons=true&count_private=true)
+### 🌐 Automation & Web Solutions
 
----
+-   **ai-website-generator**: Developed an AI-powered tool for generating websites.
+-   **AI-Hiring-Assistant**: Built an AI assistant to streamline the hiring process.
+-   **Conversational-AI-Voice-Assistant**: Created a conversational AI voice assistant for interactive user experiences.
 
-## 🔗 Connect With Me
+## 🎓 Education
 
-- [LinkedIn](https://www.linkedin.com/in/devendra-reddy-vennapusa-b3665628a/)
-- [Portfolio](https://devendrareddy2344.github.io/portfolio/)
+**B.Tech in Computer Science Engineering (Artificial Intelligence and Data Science)**
+Audisankara Institute of Technology, Gudur, Tirupati (2021-2025)
 
----
+## 🌐 Connect with Me
 
-## ✍️ Recent Projects
-
-- **Power BI Hospital Emergency Patient Dashboard:** Interactive analytics for emergency trends and hospital performance (featured project)
-- AI Healthcare Chatbot: Medical Q&A platform with LLMs and Gemini
-- PDF Data Processor: Automated extraction and analysis using PyPDF & Pandas
-- Python Data Science Learning: Practical notebooks on NumPy, Pandas, EDA
+-   **Portfolio**: [https://devendrareddy2344.github.io/portfolio/](https://devendrareddy2344.github.io/portfolio/)
+-   **LinkedIn**: [in/devendrareddy02](https://www.linkedin.com/in/devendrareddy02)
+-   **Email**: devendrareddy2344@gmail.com
 
 ---
-
-## 🎯 Goals for 2025
-
-- Become a specialist in ML deployment and analytics in healthcare
-- Launch a career as a Software/AI Engineer
-- Increase open-source contributions in AI and data science
-
----
-
-<!--
-Customize further with badges, GIFs, widgets, or dynamic sections if desired!
--->
