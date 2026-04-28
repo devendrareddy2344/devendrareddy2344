@@ -31,7 +31,7 @@ I am a dedicated **AI Engineer** and Computer Science graduate specializing in A
 | **Machine & Deep Learning** | TensorFlow, Keras, PyTorch, Scikit-learn, Regression, Classification, Clustering |
 | **Natural Language Processing** | Text Preprocessing, Tokenization, Intent Processing, NLU, BERT, Hugging Face |
 | **Data Handling & Visualization** | NumPy, Pandas, Matplotlib, Seaborn, OpenCV |
-| **Web Frameworks & APIs** | FastAPI, Streamlit, Django, React |
+| **Web Frameworks & APIs** | FastAPI, Streamlit,  React |
 | **Databases & Cloud** | PostgreSQL, MySQL, SQLite, FAISS, Microsoft Azure, Render, Vercel |
 | **Developer Tools** | Git, GitHub, VS Code, Cursor, Jupyter Notebook, Docker |
 
