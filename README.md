@@ -1,50 +1,66 @@
-# 👋 Hi, I'm Vennapusa Devendra Reddy!
+<div align="center">
+  <h1>👋 Hi, I'm Vennapusa Devendra Reddy</h1>
+  <h3>AI Engineer | Machine Learning | Generative AI & RAG Specialist</h3>
+</div>
 
-## 🚀 AI & Data Science Enthusiast | Innovator | Problem Solver
-
-I am a passionate final-year B.Tech student specializing in **Artificial Intelligence and Data Science** at Audisankara Institute of Technology. With a strong foundation in machine learning and data analytics, I am driven by the desire to leverage intelligent, data-driven solutions to tackle real-world challenges. My expertise spans across various domains, including Generative AI, Healthcare AI, and Financial Risk Analysis.
-
-## 💡 What I Do
-
-My work revolves around developing innovative AI and data science solutions. I thrive on transforming complex problems into actionable insights and robust applications. I am proficient in **Python**, and skilled in using libraries like **NumPy**, **Pandas**, and **Matplotlib** for data manipulation and visualization. My database skills include **SQL**, and I have experience with web technologies like **JavaScript**, **TypeScript**, and **HTML/CSS** for building comprehensive solutions.
-
-## 🛠️ My Projects & Expertise
-
-I have a diverse portfolio of projects that demonstrate my capabilities in various facets of AI and Data Science:
-
-### 🧠 Generative AI & RAG
-
--   **rag-based-document-assistant**: Developed an intelligent assistant leveraging Retrieval-Augmented Generation (RAG) for efficient document querying.
--   **Enterprise-SOP-Policy-Knowledge-Assistant-using-Generative-AI-with-RAG**: Created a knowledge assistant for enterprises, enhancing policy and SOP understanding through Generative AI and RAG.
--   **GenAI-Powered-Contract-Risk-Compliance-Engine**: Engineered a sophisticated engine to analyze contracts for risk and compliance using advanced Generative AI techniques.
-
-### 🏥 Healthcare AI
-
--   **Diabetic-Retinopathy-Detection-System**: Implemented an AI-powered system for early detection of Diabetic Retinopathy.
--   **AI-Healthcare-Chatbot**: Built an intelligent, web-based chatbot (using Python/Django) providing 24/7 medical support, symptom checking, and healthcare guidance.
--   **Hospital-Emergency-Room-Dashboard---Power-BI**: Designed an interactive Power BI dashboard to analyze and optimize emergency room performance.
-
-### 💰 Finance & Risk Analysis
-
--   **Dynamic_Pricing_Intelligence_Platform**: Developed a platform for intelligent dynamic pricing strategies.
--   **Ai_loan_Risk_analysis**: Created an AI-driven system for assessing loan risk.
--   **DynamixNetworks_Credit_Card_Fraud_Detection**: Implemented a machine learning solution for detecting credit card fraud.
-
-### 🌐 Automation & Web Solutions
-
--   **ai-website-generator**: Developed an AI-powered tool for generating websites.
--   **AI-Hiring-Assistant**: Built an AI assistant to streamline the hiring process.
--   **Conversational-AI-Voice-Assistant**: Created a conversational AI voice assistant for interactive user experiences.
-
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering (Artificial Intelligence and Data Science)**
-Audisankara Institute of Technology, Gudur, Tirupati (2021-2025)
-
-## 🌐 Connect with Me
-
--   **Portfolio**: [https://devendrareddy2344.github.io/portfolio/](https://devendrareddy2344.github.io/portfolio/)
--   **LinkedIn**: [in/devendrareddy02](https://www.linkedin.com/in/devendrareddy02)
--   **Email**: devendrareddy2344@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/devendrareddy02/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://devendrareddy2344.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:devendrareddy2344@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
+
+## 🚀 About Me
+
+I am a dedicated **AI Engineer** and Computer Science graduate specializing in Artificial Intelligence and Data Science. My passion lies in designing, training, and deploying sophisticated AI-driven systems. I have strong hands-on experience in building end-to-end Machine Learning pipelines, with a particular focus on **Generative AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems. I thrive on transforming complex data into actionable intelligence and creating scalable solutions that solve real-world problems.
+
+## 🛠️ Technical Expertise
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming & Scripting** | Python, SQL, JavaScript, TypeScript |
+| **Generative AI & LLMs** | OpenAI, Google Gemini, LLaMA, Prompt Engineering, RAG, CAG |
+| **LLM Frameworks & Agents** | LangChain, LangGraph |
+| **Machine & Deep Learning** | TensorFlow, Keras, PyTorch, Scikit-learn, Regression, Classification, Clustering |
+| **Natural Language Processing** | Text Preprocessing, Tokenization, Intent Processing, NLU, BERT, Hugging Face |
+| **Data Handling & Visualization** | NumPy, Pandas, Matplotlib, Seaborn, OpenCV |
+| **Web Frameworks & APIs** | FastAPI, Streamlit, Django, React |
+| **Databases & Cloud** | PostgreSQL, MySQL, SQLite, FAISS, Microsoft Azure, Render, Vercel |
+| **Developer Tools** | Git, GitHub, VS Code, Cursor, Jupyter Notebook, Docker |
+
+## 🧠 Featured Projects
+
+### 🔹 Generative AI & RAG Systems
+- **[Enterprise SOP & Policy Knowledge Assistant](https://github.com/devendrareddy2344/Enterprise-SOP-Policy-Knowledge-Assistant-using-Generative-AI-with-RAG)**: Engineered a robust knowledge assistant for enterprises, leveraging Generative AI and RAG to enhance the understanding and retrieval of complex policies and Standard Operating Procedures (SOPs).
+- **[GenAI-Powered Contract Risk Compliance Engine](https://github.com/devendrareddy2344/GenAI-Powered-Contract-Risk-Compliance-Engine)**: Developed a sophisticated engine utilizing advanced Generative AI techniques to automatically analyze legal contracts, identifying potential risks and ensuring compliance.
+- **[RAG-Based Document Assistant](https://github.com/devendrareddy2344/rag-based-document-assistant)**: Built an intelligent document querying assistant using Retrieval-Augmented Generation to provide accurate, context-aware responses from custom document repositories.
+
+### 🔹 AI Engineering & Machine Learning
+- **[Dynamic Pricing Intelligence Platform](https://github.com/devendrareddy2344/Dynamic_Pricing_Intelligence_Platform)**: Architected an end-to-end platform combining Machine Learning, Computer Vision, and Full-Stack development. It identifies products from images, utilizes asynchronous crawlers for multi-platform price discovery, and applies ML-based market analysis (clustering, anomaly detection) to deliver actionable pricing intelligence. *(Tech: Python, FastAPI, scikit-learn, PostgreSQL, React)*
+- **[AI Clinical Trial Eligibility Engine](https://github.com/devendrareddy2344/AI_Clinical_Trials)**: Designed an AI-driven engine to automate the evaluation of complex medical protocols against patient data. Implemented a multi-stage NLP pipeline using transformer-based models (BERT) and vector search (FAISS) for semantic matching and eligibility analysis. *(Tech: Python, FastAPI, PyTorch, Hugging Face)*
+- **[AI Healthcare Chatbot](https://github.com/devendrareddy2344/AI-Healthcare-Chatbot)**: Developed an intelligent, web-based chatbot using Python (Django) that provides 24/7 medical support, symptom checking, and healthcare guidance.
+
+## 💼 Professional Experience
+
+**Artificial Intelligence Intern | TeckyBot** *(Jan 2025 – Mar 2025)*
+- Applied machine learning algorithms to develop AI solutions for complex prediction and classification tasks.
+- Built and optimized deep learning models using TensorFlow and Keras for pattern recognition and automation.
+- Implemented Generative AI workflows by integrating Large Language Models (LLMs) for conversational AI and content generation use cases.
+- Contributed to the full model lifecycle, including data preprocessing, training, validation, and performance tuning.
+
+## 🎓 Education & Certifications
+
+- **B.Tech in Computer Science and Engineering (AI & DS)** - Audisankara Institute of Technology (2021 - 2025) | CGPA: 8.4
+- **Certifications**: Machine Learning (Kaggle), GenAI Powered Data Analytics (Tata), Artificial Intelligence & Machine Learning (InternPe), Artificial Intelligence (Great Learning).
+
+---
+<div align="center">
+  <i>Always eager to learn, build, and innovate in the field of Artificial Intelligence.</i>
+</div>
