@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Vennapusa Devendra Reddy</h1>
-  <h3>AI Engineer | Machine Learning | Generative AI & RAG Specialist</h3>
+  <h3>AI/ML Engineer | Generative AI & LLMs | RAG & LangChain | NLP & Computer Vision | Scalable AI Systems</h3>
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am a dedicated **AI Engineer** and Computer Science graduate specializing in Artificial Intelligence and Data Science. My passion lies in designing, training, and deploying sophisticated AI-driven systems. I have strong hands-on experience in building end-to-end Machine Learning pipelines, with a particular focus on **Generative AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems. I thrive on transforming complex data into actionable intelligence and creating scalable solutions that solve real-world problems.
+I am a dedicated **AI/ML Engineer** and Computer Science graduate specializing in Artificial Intelligence and Data Science. My passion lies in designing, training, and deploying sophisticated AI-driven systems. I have strong hands-on experience in building end-to-end Machine Learning pipelines, with a particular focus on **Generative AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems. I thrive on transforming complex data into actionable intelligence and creating scalable AI solutions that solve real-world problems.
 
 ## 🛠️ Technical Expertise
 
@@ -31,7 +31,7 @@ I am a dedicated **AI Engineer** and Computer Science graduate specializing in A
 | **Machine & Deep Learning** | TensorFlow, Keras, PyTorch, Scikit-learn, Regression, Classification, Clustering |
 | **Natural Language Processing** | Text Preprocessing, Tokenization, Intent Processing, NLU, BERT, Hugging Face |
 | **Data Handling & Visualization** | NumPy, Pandas, Matplotlib, Seaborn, OpenCV |
-| **Web Frameworks & APIs** | FastAPI, Streamlit,  React |
+| **Web Frameworks & APIs** | FastAPI, Streamlit, Django, React |
 | **Databases & Cloud** | PostgreSQL, MySQL, SQLite, FAISS, Microsoft Azure, Render, Vercel |
 | **Developer Tools** | Git, GitHub, VS Code, Cursor, Jupyter Notebook, Docker |
 
@@ -48,6 +48,9 @@ I am a dedicated **AI Engineer** and Computer Science graduate specializing in A
 - **[AI Healthcare Chatbot](https://github.com/devendrareddy2344/AI-Healthcare-Chatbot)**: Developed an intelligent, web-based chatbot using Python (Django) that provides 24/7 medical support, symptom checking, and healthcare guidance.
 
 ## 💼 Professional Experience
+
+**AI/ML Intern | Syncs Group** *(Dates to be confirmed)*
+- Focused on AI/ML development, contributing to scalable AI systems and innovative solutions.
 
 **Artificial Intelligence Intern | TeckyBot** *(Jan 2025 – Mar 2025)*
 - Applied machine learning algorithms to develop AI solutions for complex prediction and classification tasks.
