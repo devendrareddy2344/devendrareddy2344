@@ -49,14 +49,11 @@ I am a dedicated **AI/ML Engineer** and Computer Science graduate specializing i
 
 ## 💼 Professional Experience
 
-**AI/ML Intern | Syncs Group** *(Dates to be confirmed)*
+**AI/ML Intern | Syncs Group**
 - Focused on AI/ML development, contributing to scalable AI systems and innovative solutions.
 
 **Artificial Intelligence Intern | TeckyBot** *(Jan 2025 – Mar 2025)*
-- Applied machine learning algorithms to develop AI solutions for complex prediction and classification tasks.
-- Built and optimized deep learning models using TensorFlow and Keras for pattern recognition and automation.
-- Implemented Generative AI workflows by integrating Large Language Models (LLMs) for conversational AI and content generation use cases.
-- Contributed to the full model lifecycle, including data preprocessing, training, validation, and performance tuning.
+- Developed AI solutions for prediction and classification tasks while implementing GenAI workflows for conversational AI.
 
 ## 🎓 Education & Certifications
 
